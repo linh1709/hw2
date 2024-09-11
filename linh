@@ -14,11 +14,11 @@ if ($dbh->connect_error) {
 echo "Kết nối thành công";
 // *** Thêm dữ liệu ***
 
-// $name = "Đình hưng";
-// $gender = "Male";
+// $name = "Diệu Linh";
+// $gender = "Female";
 // $contact_no = "035768989";
 // $email = "hellochao@gmail.com";
-// $city = "Nghe An";
+// $city = "Vĩnh Phúc";
 // $country = "Vietnam";
 
 // Chuẩn bị câu lệnh SQL để thêm dữ liệu
